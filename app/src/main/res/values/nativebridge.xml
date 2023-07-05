@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="NB_app_name" translatable="false">NativeBridge</string>
     <string name="NB_web_delivery_type" translatable="false">online</string>
     <string name="NB_web_delivery_url" translatable="false">https://example.com</string>
     <bool name="NB_web_delivery_backup">false</bool>
